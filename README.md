@@ -18,3 +18,19 @@ Tech Stack
 Additional:
 1. Elastic Search
 2. React js
+
+Domain:
+Address
+Faculty
+Student
+Course
+CourseOffering
+Registration
+RegistrationRequest
+Academic Block
+RegistrationEvent
+RegistrationGroup
+Credential
+Role
+
+
