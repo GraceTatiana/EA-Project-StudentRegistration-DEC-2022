@@ -10,6 +10,7 @@ Tech Stack
 4. Spring Security
 5. Spring Cloud
 6. AWS
+7. RESTful 
 
 
 
